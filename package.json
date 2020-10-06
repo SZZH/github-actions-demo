@@ -1,6 +1,6 @@
 {
-  "name": "reactCiTest",
-  "homepage": "https://SZZH.github.io/reactCiTest",
+  "name": "github-actions-demo",
+  "homepage": "https://SZZH.github.io/github-actions-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
